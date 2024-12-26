@@ -6,11 +6,6 @@ if(num%10==0) {
     console.log("Bad");
 }
 
-// console.log("\n Example of alert and prompt");
-// let name = prompt("Enter the name of user :");
-// let age = prompt("Enter the age of user :");
-// alert(`${name} is ${age} years old`);
-
 console.log("\n Example of 2 numbers have the same last digit");
 let a = 32;
 let b = 118732;
